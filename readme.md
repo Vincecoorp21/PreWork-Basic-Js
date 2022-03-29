@@ -1,4 +1,4 @@
-Basic JS Exercise's form Codewar
+Basic JS Exercises form Codewar Academy
 
 <!-- https://www.codewars.com/kata/53ee5429ba190077850011d4
 https://www.codewars.com/kata/5772da22b89313a4d50012f7
